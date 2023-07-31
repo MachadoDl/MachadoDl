@@ -12,7 +12,7 @@
 
 - :electron: I'm currently learning about Next and React
 
-[See the Project](https://github.com/MachadoDl/landpage.git)
+[See the Project]()
 
 <h2>What I want to learn</h2>
 
